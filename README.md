@@ -1,0 +1,2 @@
+# covid-fighter
+javascript game
